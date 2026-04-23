@@ -1,4 +1,4 @@
-# 🔐 VMware Security Lab (pfSense + Kali + Ubuntu)
+# 🔐 pfsense-virtual-security-lab (pfSense + Kali + Ubuntu)
 
 ## 📌 Overview
 This project is a simple cybersecurity lab built using VMware.
