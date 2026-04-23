@@ -103,15 +103,6 @@ Expected:
 
 ---
 
-## 🚀 Future Improvements
-
-- Block Kali completely
-- Secure SSH access
-- Add IDS/IPS (Snort)
-- Monitor logs
-- Add VPN
-
----
 
 ## 🧠 Conclusion
 
